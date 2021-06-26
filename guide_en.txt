@@ -1,0 +1,97 @@
+Help:
+
+What the world consists of: # - city;
+, - plain; Y-tree; ~ - water;
+
+The creation of cities:
+
+In order to create a city, you need to choose a plain (","). 
+
+Press [0] to name the city.
+
+The city costs 2000 credits, 300 resources and 30 trees.
+
+Creation of mines, markets, ports and barracks:
+
+This requires at least one city. 
+
+In one city you can build 1 mine, 1 market, 1 port and 1 
+barrack. 
+The barracks needed for the recruitment of mercenaries. 
+
+With each move the number of mercenaries increases, 
+
+and they can be transferred to their permanent army [h].
+
+Mines are needed for resource extraction, 
+markets for earnings 
+loans sawmill for production of wood,
+
+and ports are for swimming. 
+Price barracks - 10 trees, 
+130 resources and 600 credits; 
+markets-15 trees, 
+110 resources and 1000 credits; 
+mines-5 trees and 500 credits;
+
+lumber mills - 5 wood, 110 resources and 500 credits;
+ports-15 trees, 
+150 resources and 2000 credits.
+
+The flag creation will start if you press the [f] button.
+
+With every new creation of flag his 
+the cost increases by 30 %.
+
+The initial price of the flag is 5000 credits and 40 trees.
+
+The flag is the most expensive thing in the game.
+
+Extraction of the tree is made on the [t] button.
+
+To do this, stand on a tree(Y) and cut it down.
+
+Level of complexity: 
+
+Easy-the easiest level of difficulty. 
+
+On easy difficulty level at opponents
+a weak army. 
+You are given 300 moves.
+
+Average - the enemy becomes a strong army,
+it begins to develop faster. 
+You are given
+ 400 moves.
+
+Difficult - the enemies are very strong. 
+Without long
+development win becomes very difficult.
+
+You are given 500 moves.
+
+Expert-all the same as in a complex level.
+
+The difference is that you are given only 
+300 moves.
+
+The battle with the enemy begins if you step on 
+enemy ("$"(red)) and write"y".
+
+The larger your army, the greater the chance to win.
+
+Try to recruit an army greater than the enemy.
+
+When you win, you are awarded all the wealth of the enemy. 
+In defeat, you will be executed.
+In order to win, you need:
+
+1. To destroy all the enemies.
+
+2. Accumulate 100,000 credits.
+
+3. To build 10 cities.
+
+4. To create up to 5 flags.
+All these options are given to choose from. 
+Good luck.

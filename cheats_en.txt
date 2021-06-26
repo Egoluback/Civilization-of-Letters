@@ -1,0 +1,40 @@
+The game has cheat codes. 
+You are not recommended to use them if you 
+want to enjoy the game as long as possible. 
+If you used a cheat code,
+
+then during the game will be displayed the inscription " 
+used cheat code."
+
+
+Cheat code:
+
+
+
+SetMoney-change your money the amount you specify. 
+Just enter first 
+"SetMoney", press Enter, and then enter the amount you need.
+
+
+
+SetArmy-change the number of your warriors by the number you specify. 
+Just at first 
+enter "SetArmy", press Enter and then enter the desired number.
+
+
+
+SetRes-change the number of your resources by the number you specify. 
+Just at first 
+enter "SetRes", press Enter, and then enter the desired number.
+
+
+
+SetProgress-change your moves to the specified number. 
+Just at first 
+enter "SetProgress", press Enter, and then enter the desired number.
+
+
+
+SetTree-change the number of your tree to the number you specify. 
+Just at first 
+enter "SetTree", press Enter, and then enter the desired number.

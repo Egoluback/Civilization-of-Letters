@@ -1,0 +1,6 @@
+help - help for you.
+SetArmy - to change the number of soldiers.
+SetRes - to change the number of resources.
+SetMoney - to change number of credits.
+SetProgress - to change the number of moves.
+SetTree - to change the number of the tree.

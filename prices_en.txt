@@ -1,0 +1,11 @@
+The city costs 2000 credits, 300 resources and 30 trees.
+
+Price barracks - 10 trees, 130 resources and 600 credits; 
+
+markets-15 trees, 110 resources and 1000 credits; 
+
+mines-5 trees and 500 credits;
+
+lumber mills - 5 wood, 110 resources and 500 credits;
+
+ports-15 trees, 150 resources and 2000 credits.

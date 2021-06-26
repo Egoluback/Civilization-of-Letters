@@ -1,0 +1,22 @@
+3.2.1. - A new engine that allows you to translate the game 
+into almost any language in the world. 
+Added a new language - English.
+3.2.3. - Now the language is asked when entering the game. 
+Small fixes.
+3.2.4. - Change icon.
+3.3.1. - Reduced the number of treasures on the map.
+
+Added sandbox mode - a mode in which you can
+manually 
+adjust your game settings. Therein
+mode the number of 
+moves is infinite.
+
+Fixed bugs.
+
+Small changes in the interface.
+3.4.1. - New objects on the map-mushrooms. 
+
+With their help, you can slow down time 
+for a short time,
+after use disappear.

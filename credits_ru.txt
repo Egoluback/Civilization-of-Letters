@@ -1,0 +1,19 @@
+Игрой занимаются:
+Программист:
+@Egoluback
+Художник:
+@IWolfM
+
+Тестеры:
+@Cranz
+@IWolfM
+Локализатор:
+@Egoluback
+Геймдизайнеры:
+@Cranz
+@Egoluback
+@IWolfM
+Автор:
+@Egoluback
+Отдельная благодарность @Smartickus.
+

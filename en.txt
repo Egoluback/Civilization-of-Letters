@@ -1,0 +1,106 @@
+credits:Money
+res:Resources
+army:Army
+cityies:Cities
+naem:Mercenaries
+tree:Trees
+days:Courses
+build_town:construction of city
+rinka:market's
+mine:mines
+cut_tree:the cutting of trees
+build_port:port construction
+barrack:barrack
+nime_to_warrior:the appeal of mercenary warrior
+price:to see the prices
+stell:treasure hunt
+city:city
+rav:plain
+tree_cnt:tree
+water:water
+build_ship:the creation of the ship
+flag:flag's
+sawmill:sawmills
+change_name_city:change name of the city
+version:Version of game
+err_tree_2:There is nothing to cut!
+err_city_0:Cities only on the plain!
+err_city_1:You need a city to build it.
+err_nime_1:You have no mercenaries.
+err_treasure_1:No treasure here!
+err_credits_1:Not enough credits!
+enter_name:Enter the city name.
+err_res_1:Not enough resources!
+err_tree_1:Not enough wood!
+plus_credit:You got credits -
+win_money_1:You've become very rich,
+win_money_2:and redeemed the world!
+win:You win!
+exit:Press Enter to exit
+win_cityies_1:You built up a world of cities,
+win_cityies_2:and your enemies have surrendered!
+win_war:You have destroyed all enemies!
+win_flags_1:You have built 5 flags,
+win_flags_2:and now the world is explored!
+err_port_1:Find a city with a port.
+err_port_2:Ships are available in cities.
+err_city_1:Build a city first.
+enter_town:Select city.
+err_city_2:There is no such city.
+lose:You lost!
+it_war:Attack enemy
+enter_warriors:How many warriors?
+err_nime_2:Not enough mercenaries!
+err_credits_2:Not enough money!
+err_city_3:There is no such city!
+err_city_4:You have no cities!
+menu:MENU
+enter_dif:Enter the difficulty level.
+easy:easy
+medium:average
+hard:difficult
+v_hard:very difficult
+score:see the results of previous games
+training:basic mechanics training
+ab_game:about the game
+updates:update history
+c_line:activating the developer line
+enter_code:Enter the cheat code.
+err_cheat_1:Maximum number of warriors-480.
+err_cheat_2:No such cheat code found.
+error:Error.
+err_flags_1:The flags only on the plain!
+cheat_on:Cheats are used.
+language:language
+ch_language:Select language.
+russian:Russian.
+err_language:The language is not found.
+pr_flag_1:The price for one flag -
+pr_flag_2:loans, and
+pr_flag_3:trees.
+english:English.
+stell_1: - the output level
+stell_2:to collect treasure
+stell_3:press [c]
+stell_4:found weath - 
+stell_5:Level
+battlemeh_1:Died
+battlemeh_2:their warriors,
+battlemeh_3:enemies
+battlemeh_4:You lost.
+battlemeh_5:You win!
+def_lang:English is selected by default.
+san:Sandbox.
+ch_def:Use advanced settings?(y/n)
+ch_lvl_s:Select the difficulty level bots(1-easy;2-intermediate;3-difficult;4-very difficult).
+ch_cr_s:Enter the number of credits.
+ch_cit_s:Enter the number of cities.
+ch_arm_s:Enter the number of soldiers in the army(no more than 480!).
+ch_res_s:Enter the number of resources.
+ch_war_s:Enter the number of mercenaries.
+ch_tr_s:Enter the number of trees.
+ch_fl_s:Enter the number of flags.
+san_m:sandbox
+slow_err:Time has already slowed down!
+slow:Slow down time
+err_city_5:Clear the surrounding area.
